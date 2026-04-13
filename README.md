@@ -67,7 +67,8 @@ Author
 ------
  
 Divjot
-GitHub: github.com/divjot
+GitHub: github.com/divjot-07
+
  
  
 License
